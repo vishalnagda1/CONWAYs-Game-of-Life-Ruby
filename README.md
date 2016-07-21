@@ -1,7 +1,7 @@
 # Conway's Game of Life
 
 The Game of Life is not your typical computer game. It is a 'cellular automaton', and was invented by
-Cambridge mathematician John Conway.
+Cambridge mathematician [John Conway](https://en.wikipedia.org/wiki/John_Horton_Conway).
 
 This game became widely known when it was mentioned in an article published by Scientific American in 1970.
 It consists of a collection of cells which, based on a few mathematical rules, can live, die or multiply.
